@@ -1,0 +1,12 @@
+Computer Programming 2
+Math 4
+Statistics 3
+Machine Learning 1
+Domain Expertise (Retail Sales and Consumer Package Goods) 5
+Communication and Presentation 4
+Data Visualization 4
+**Application of a consistent Framework to solving Problems 3
+
+My expectation is that in this course I'll improve my ability to apply a consistent and repeatable framework to problems.  Right now I work in a very free form which is not repeatable or necessarily fully understandable by others.
+
+In the full program, I would expect my machine learning, computer programming and Statistics skills to be most improved.
